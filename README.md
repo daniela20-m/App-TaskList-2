@@ -1,13 +1,27 @@
 # TaskList Application
 
-TaskList es una aplicación diseñada para gestionar tareas de manera eficiente, permitiendo a los usuarios crear, editar, eliminar y marcar tareas como completadas.
-
 ## 📋 Características
 - Añadir nuevas tareas con título y descripción.
 - Editar tareas existentes.
 - Marcar tareas como completadas o pendientes.
 - Eliminar tareas de la lista.
 - Interfaz intuitiva y fácil de usar.
+
+---
+
+## 🖼️ Imágenes
+
+### Imagen de tarea completada
+![Imagen de tarea completada](Images/Completed.png)
+
+### Imagen de tema oscuro
+![Imagen de tema oscuro](Images/Dark.png)
+
+### Imagen de tarea pendiente
+![Imagen de tarea pendiente](Images/Pending.png)
+
+### Imagen de procedimiento
+![Imagen de procedimiento](Images/Procedure.png)
 
 ---
 
@@ -28,10 +42,10 @@ TaskList es una aplicación diseñada para gestionar tareas de manera eficiente,
 ## 🖥️ Configuración local
 
 ### Clonar el repositorio
-bash
-git clone https://github.com/daniela20-m/App-TaskList2.git
+git clone https://github.com/daniela20-m/App-TaskList.git
 
 --
+
 ## 🖥️ Configurar el frontend
 
 ### 1. Navega a la carpeta del frontend:
