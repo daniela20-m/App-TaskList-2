@@ -28,23 +28,24 @@ TaskList es una aplicación diseñada para gestionar tareas de manera eficiente,
 ## 🖥️ Configuración local
 
 ### Clonar el repositorio
-```bash
+bash
 git clone https://github.com/daniela20-m/App-TaskList2.git
 
+--
 ## 🖥️ Configurar el frontend
 
 ### 1. Navega a la carpeta del frontend:
-```bash
+
 cd task-list-frontend
 
-2. Instala las dependencias:
+### 2. Instala las dependencias:
 
 npm install
 
-3. Inicia el servidor local:
+### 3. Inicia el servidor local:
 
 npm start
 
-4. Accede a la aplicación en:
+### 4. Accede a la aplicación en:
 
 http://localhost:3000
